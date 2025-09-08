@@ -48,7 +48,7 @@
 
       Contact me:
 
-  [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:thaynamaria1622@gmail.com)
-  [![Linkedin](www.linkedin.com/in/thayná-maria-claudino-da-silva-746a18380)
+  [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=ff69b4)](mailto:thaynamaria1622@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=ff69b4)](https://www.linkedin.com/in/thayná-maria-claudino-da-silva-746a18380/)
 
   
