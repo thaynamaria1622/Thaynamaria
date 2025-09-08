@@ -49,6 +49,6 @@
       Contact me:
 
   [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:thaynamaria1622@gmail.com)
-  [![Linkedin](www.linkedin.com/in/thayná-maria-claudino-da-silva-746a18380
+  [![Linkedin](www.linkedin.com/in/thayná-maria-claudino-da-silva-746a18380)
 
   
